@@ -51,6 +51,13 @@ https://learn.microsoft.com/en-gb/azure/azure-resource-manager/management/move-s
 Azure Resource Mover primarily facilitates the movement of Azure resources within the same tenant 
 
 
+
+Reference Link: https://learn.microsoft.com/en-us/azure/azure-resource-manager/management/move-support-resources
+                https://learn.microsoft.com/en-us/azure/azure-resource-manager/management/move-resource-group-and-subscription#checklist-before-moving-resources                             https://learn.microsoft.com/en-us/azure/cost-management-billing/manage/subscription-transfer
+                https://learn.microsoft.com/en-us/azure/cost-management-billing/manage/transfer-subscriptions-subscribers-csp#transfer-csp-subscription-to-other-offers
+
+
+
  
 
 
