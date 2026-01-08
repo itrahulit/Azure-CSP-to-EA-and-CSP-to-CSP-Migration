@@ -1,8 +1,10 @@
 # Azure CSP to EA and CSP to CSP Migration
 This document serves as a comprehensive guide for the migration process from Azure Cloud Solution Provider (CSP) to Enterprise Agreement (EA) and from CSP to CSP.
-
 # CSP To CSP
 When moving your Azure CSP (Cloud Solution Provider) relationship from one partner to another, you typically don't need to migrate your Azure services to a new subscription. The change primarily involves transferring the management and billing responsibilities from one CSP partner to another while retaining your existing Azure subscription and resources.
+# Youtube Video 
+https://youtu.be/dETAMiPGeRo
+
 **Subscription Retention:**
 Your Azure subscription remains the same; there's no need to create a new subscription.
 The transition involves updating the CSP partner associated with your existing subscription.
